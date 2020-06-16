@@ -1,9 +1,8 @@
 # Linh Quang Vien
 ![Branching](linhquangvien.jpg)
-First of all, I would like to briefly
-introduce the Hai Ninh Province to our
-readers. On the map of Vietnam, Hai Ninh
-is a black dot at the easternmost SinoVietnamese border.
+
+First of all, I would like to briefly introduce the Hai Ninh Province to our
+readers. On the map of Vietnam, Hai Ninh is a black dot at the easternmost SinoVietnamese border.
 Comparatively small, the province of Hai Ninh has
 experienced many ups and downs. Originally under the
 Nguyen Dynasty, it was named “Phu” (large district) Hai
